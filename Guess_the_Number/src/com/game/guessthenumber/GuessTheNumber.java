@@ -8,7 +8,7 @@ class Game{
     int counter = 0;
     public Game(){
         compNumber = (int)(Math.random()*100);
-        System.out.println(compNumber);
+        System.out.println(compNumber);    // Wanna see the seaching number un comment this .......
     }
     public void setNum(int n){
         userNumber = n;
