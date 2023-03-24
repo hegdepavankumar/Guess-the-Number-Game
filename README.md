@@ -1,5 +1,12 @@
 # Guess-the-Number-Game
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Guess-the-Number-Game?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Guess-the-Number-Game?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Guess-the-Number-Game?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Guess-the-Number-Game.svg?cache=remove)
+
 <br>
+
 Guess the Number Game  using Java(OOPs Edition) ,Guess the number play with the Computer....Have a Fun!..
 
 The task is to write a Java program in which a user will get K trials to guess a randomly generated number. Below are the rules of the game:
