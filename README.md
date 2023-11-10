@@ -1,8 +1,8 @@
 # Guess-the-Number-Game
 
-![GitHub](https://img.shields.io/github/license/imhegde/Guess-the-Number-Game?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Guess-the-Number-Game?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Guess-the-Number-Game?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Guess-the-Number-Game?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Guess-the-Number-Game?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Guess-the-Number-Game?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Guess-the-Number-Game.svg?cache=remove)
 
 <br>
@@ -28,12 +28,12 @@ Else print that he was not able to guess and then print the actual number.
 ## Algorithm for Number guessing game
 
 Step 1: Create three variables attempt, userGuessNumber, and secretNumber, and initialize them.
-Step 2: Generate a random number and assigned to secretNumber.
+Step 2: Generate a random number and assign it to a secret number.
 Step 3: Start a loop and take user input.
 Step 4: Validate user input and match with the secretNumber.
 Step 5: If userGuessNumber is greater than or less than the secretNumber then print a message to the user.
 Step 6: If userGuessNumber is equal to the secretNumber, then the user wins and exits the game.
-Step 7: If a number of attempts exceeds the limit, exit the game.
+Step 7: If several attempts exceed the limit, exit the game.
 Step 8:Repeat from Step 3.
 
 
@@ -45,9 +45,9 @@ The GUI version of this game is Coming Soon ...Stay tuned!.
 
 ## Creator [🔝](# Guess-the-Number-Game)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo....
